@@ -18,7 +18,3 @@
 12 | [Классификация комментариев](https://github.com/timofeevamila/Practicum/tree/main/12.%20Классификация%20комментариев) | Создать инструмент, который будет искать токсичные комментарии и отправлять их на модерацию | pandas, numpy, sklearn, lightgbm, re, nltk, matplotlib, seaborn
 13 | [Определение возраста покупателей](https://github.com/timofeevamila/Practicum/tree/main/13.%20Определение%20возраста%20покупателей) | Проанализировать набор фотографий людей с указанием возраста и построить модель, которая по фотографии определит приблизительный возраст человека | pandas, numpy, matplotlib, tensorflow, keras
 14 | [Прогнозирование оттока клиентов оператора связи](https://github.com/timofeevamila/Practicum/tree/main/14.%20Прогнозирование%20оттока%20клиентов%20оператора%20связи) | Построить модель для прогнозирования оттока клиентов оператора связи «Ниединогоразрыва.ком» |  pandas, numpy, sklearn, lightgbm, matplotlib, seaborn
-
-# Контакты
-* e-mail: timofeeva.lm@mail.ru
-* telegram: @timomila
